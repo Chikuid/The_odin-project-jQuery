@@ -1,0 +1,24 @@
+#wrapper{
+	height:600px;
+	width: 600px;
+ background-color: #FFFFFF;
+ margin:5px auto;
+}
+#container{
+    text-align: center;
+}
+a.reset{
+	
+	background-color: #bfbfbf;
+	border: 1px solid black;
+	margin-bottom: 5px;
+	border-radius: 2px;
+
+	
+	text-decoration: none;
+}
+
+.square {
+    background-color: #E8E8E8;
+margin: 1px;
+}
